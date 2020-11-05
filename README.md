@@ -4,7 +4,7 @@
 
 Clone This Project (Make Sure You Have Git Installed)
 ```
-https://github.com/Alchemist98/E-commerce-webapp-using-Django.git
+https://github.com/Alchemist98/VueJS-Projects.git
 ```
 
 Install VueJS in your system
