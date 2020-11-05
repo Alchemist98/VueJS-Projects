@@ -22,6 +22,9 @@ Run the project
 npm run serve
 ```
 
->enjoy coding!!!
+Your project will run on localhost
+```
+http://localhost:8080/
+```
 
 
